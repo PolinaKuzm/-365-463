@@ -1,0 +1,37 @@
+.crossedOut {
+text-decoration: line-through;
+}
+.allocated {
+font-weight: bold;
+}
+.colored {
+color: red;
+}
+
+.border-color{
+    border-color: red;
+    border-style: solid;
+}
+
+.colored_border{
+    border-color: green;
+}
+.colored_border2{
+    border-color: red;
+}
+
+.colored_green{
+    background: green;
+}
+.colored_red{
+    background: red;
+}
+
+#myElement {
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+    }
+
+
+
